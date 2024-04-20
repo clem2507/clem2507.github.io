@@ -1,156 +1,173 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Clément Detry",
+    "label": "Machine Learning Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "clementdetry@outlook.com",
+    "phone": "+32 470 29 29 42",
+    "url": "",
+    "summary": "AI enthusiast with a BSc in Artificial Intelligence from Maastricht University and an MSc in Machine Learning from Université de Montréal and Mila Research Institute. Currently serving as an ML Engineer at HumanWare Technologies, dedicated to advancing vision algorithms for the benefit of the visually impaired. Driven by the AI for Good initiative to create a positive impact.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
-  "work": [
-    {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Université de Montréal, Mila - Quebec AI Institute",
+      "location": "Montréal, CA",
+      "url": "https://admission.umontreal.ca/programmes/maitrise-en-informatique/",
+      "area": "Machine Learning",
+      "studyType": "Master",
+      "startDate": "2022-09-01",
+      "endDate": "2024-01-01",
+      "score": "",
+      "courses": ["Data Science", "Machine Learning", "Representation Learning", "Natural Language Processing", "Big Data"]
+    },
+    {
+      "institution": "Maastricht University",
+      "location": "Maastricht, NL",
+      "url": "https://curriculum.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence",
+      "area": "Data Science and Artificial Intelligence",
+      "studyType": "Bachelor",
+      "startDate": "2018-09-01",
+      "endDate": "2022-01-01",
+      "score": "",
+      "courses": ["Thesis: Identifying Patterns in Jaw Activities: Time Series Analysis of Sleep‑Related Data", "Supervisor: Prof. Rachel Cavill"]
     }
   ],
-  "awards": [
+  "work": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "name": "Nomics Care",
+      "position": "Web Developer Intern",
+      "url": "https://nomicscare.com/en/",
+      "startDate": "2021-06-01",
+      "endDate": "2021-08-01",
+      "summary": "Liège, BE",
+      "highlights": [
+        "Initiated the migration of a Windows-based application for sleep activity signal analysis to a web server. This strategic shift was designed to simplify the user experience, enabling doctors to access patient analysis platforms from any device.",
+        "Leveraged Django web framework to transition existing Python-based code for the web application development. This approach capitalized on the pre-existing codebase, streamlining the development process and maintaining system coherence.",
+        "Developed the backend for user authentication interfaces and password management systems, and established an SQL database for storing user data. Concluded the internship by initiating the implementation of a dashboard feature for doctor’s patient data overview."
+      ]
+    },
+    {
+      "name": "Nomics Care",
+      "position": "Data Scientist",
+      "url": "https://nomicscare.com/en/",
+      "startDate": "2021-09-01",
+      "endDate": "2022-06-01",
+      "summary": "Liège, BE",
+      "highlights": [
+        "Automated the detection of specific patterns in sleep time series data related to jaw activities, which were previously identified manually by doctors. The project aimed to streamline the diagnostic process by identifying patterns of “signal invalidity” and “awakeness”.",
+        "Gathered time series data using the MNE-Python library and performed preprocessing with Pandas to clean and structure the dataset. Employed SMOTE oversampling to balance the data, ensuring it was well-suited for effective model training",
+        "Implemented and evaluated supervised machine learning models, specifically a 1-D CNN and an LSTM, using Tensorflow and Keras frameworks. Results showed an overall validation F1-score of 0.98, indicating sufficient model performance in identifying the targeted sleep patterns."
+      ]
+    },
+    {
+      "name": "HumanWare Technologies",
+      "position": "ML Engineer",
+      "url": "https://www.humanware.com/en-canada/home",
+      "startDate": "2023-05-01",
+      "endDate": "Now",
+      "summary": "Montréal, CA",
+      "highlights": [
+        "Initiated and led the development of an object detection task for visually impaired users to locate personal objects, leveraging the use of a GPS-based device equiped with dual cameras. This project aimed to enhance users' independence by facilitating the retrieval of their objects.",
+        "Implemented and trained a custom PyTorch model using a few-shot learning approach. This model enables the detection of personal objects with only a few training examples",
+        "Designed a recording mechanism using the SiamRPN tracking model from the PySOT library, allowing users to capture images of their objects",
+        "Collaborated with software teams and beta-users to refine and optimize the model, focusing on its integration and usability."
+      ]
     }
   ],
-  "certificates": [
+  "projects": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Medical Image Segmentation",
+      "summary": "Université de Montréal, Montréal, CA",
+      "highlights": [
+        "Worked within a three-person team on a project aimed at 3D medical image segmentation, utilizing CT and MRI scans. The objective was to assess and refine the architectural framework of a U-Net model to enhance its segmentation performance.", 
+        "Implemented a series of strategic modifications to the U-Net model, including adjustments to the convolutional block, improvements in skip connections and the integration of a cross-attention mechanism. At the same time, established a standardized data preprocessing and augmentation pipeline, ensuring consistent and accurate evaluation of architectural changes across model iterations."
+      ],
+      "startDate": "2023-01-01",
+      "endDate": "2023-05-01",
+      "url": "https://clem2507.github.io/assets/pdf/MedicalSegmentationReport.pdf"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Interactive Human vs Robot “Water Pong” Game",
+      "summary": "Maastricht University, Maastricht, NL",
+      "highlights": [
+        "In a team of four, implemented an interactive “Water Pong” game with real-time computer vision, utilizing Hough Circle Transform in OpenCV for cup detection and YOLOv5 for ball tracking, facilitating accurate distance measurements.", 
+        "Developed a lookup table for the robotic arm's throw parameters, correlating with cup positions, resulting in a target hitting accuracy of 90%."
+      ],
+      "startDate": "2021-09-01",
+      "endDate": "2022-01-01",
+      "url": "http://clem2507.github.io/assets/pdf/WaterPongReport.pdf"
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Languages",
+      "level": "",
+      "icon": "",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Python",
+        "Java",
+        "Matlab",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "PyTorch",
+        "Keras",
+        "Tensorflow",
+        "YOLO",
+        "Django",
+        "Flutter"
+      ]
+    },
+    {
+      "name": "Libraries",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Numpy",
+        "Pandas",
+        "Matplotlib",
+        "OpenCV",
+        "Scikit-learn",
+        "HuggingFace",
+        "MLFlow",
+        "Optuna",
+        "MNE-Python"
+      ]
+    },
+    {
+      "name": "Other Tools",
+      "level": "",
+      "icon": "",
+      "keywords": [
+        "Git",
+        "Docker",
+        "LaTeX",
+        "Jira"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "French",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -158,42 +175,6 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
-    }
-  ],
-  "interests": [
-    {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
