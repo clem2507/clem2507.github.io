@@ -73,3 +73,5 @@ The SpotiFire app's recommendation pipeline offers a straightforward way of disc
 </div>
 
 SpotiFire was developed as a personal project to explore application development and API integration. I designed it only for personal use, to better understand the process of building an app from scratch. Due to the project's nature and the regulatory requirements involved in scaling Spotify API access for wider use, SpotiFire was not released on the App Store and remains a private tool that I use for my own music selection.
+
+For more details on the code, check out the project [repository](https://github.com/clem2507/SpotiFire).
