@@ -27,7 +27,7 @@ Through a 5-fold cross-validation analysis on the heart and lung datasets, we fo
 
 <div class="row justify-content-center">
     <div class="col-12">
-        {% include figure.liquid loading="eager" path="assets/img/medical_image_segmentation/foldwise.png" title="Foldwise" class="img-fluid" %}
+        {% include figure.liquid loading="eager" path="assets/img/medical_image_segmentation/foldwise.png" title="Foldwise Results" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -36,7 +36,7 @@ Through a 5-fold cross-validation analysis on the heart and lung datasets, we fo
 
 <div class="row justify-content-center">
     <div class="col-12">
-        {% include figure.liquid loading="eager" path="assets/img/medical_image_segmentation/results_table_medical_seg.png" title="Table Segmentation Results" class="img-fluid" %}
+        {% include figure.liquid loading="eager" path="assets/img/medical_image_segmentation/results_table_medical_seg.png" title="Segmentation Results" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
@@ -45,7 +45,7 @@ Through a 5-fold cross-validation analysis on the heart and lung datasets, we fo
 
 <div class="row justify-content-center">
     <div class="col-md-8">
-        {% include figure.liquid loading="eager" path="assets/img/medical_image_segmentation/table_all_datasets.png" title="Table All Results" class="img-fluid" %}
+        {% include figure.liquid loading="eager" path="assets/img/medical_image_segmentation/table_all_datasets.png" title="All Results" class="img-fluid" %}
     </div>
 </div>
 <div class="caption">
