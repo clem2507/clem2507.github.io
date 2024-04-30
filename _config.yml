@@ -13,7 +13,7 @@ email: clementdetry@outlook.com
 #   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://clem2507.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -218,16 +218,8 @@ exclude:
   - Gemfile.lock
   - INSTALL.md
   - LICENSE
-  - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
-  - _pages/blog.md
-  - _pages/publications.md
-  - _pages/repositories.md
-  - _pages/teaching.md
-  - _pages/profiles.md
-  - _pages/dropdown.md
   - purgecss.config.js
   - README.md
   - readme_preview/
