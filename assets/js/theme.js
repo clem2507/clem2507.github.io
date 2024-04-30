@@ -200,7 +200,7 @@ let determineThemeSetting = () => {
   if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
     themeSetting = "system";
   }
-  return "dark";
+  return themeSetting;
 };
 
 // Determine the computed theme, which can be "dark" or "light". If the theme setting is
@@ -220,7 +220,8 @@ let determineComputedTheme = () => {
 };
 
 let initTheme = () => {
-  let themeSetting = determineThemeSetting();
+  // let themeSetting = determineThemeSetting();
+  let themeSetting = "dark";
 
   setThemeSetting(themeSetting);
 
