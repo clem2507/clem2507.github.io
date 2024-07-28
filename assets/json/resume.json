@@ -4,9 +4,9 @@
     "position": "ML Engineer @ HumanWare Technologies",
     "image": "",
     "email": "clementdetry@outlook.com",
-    "phone": "+33 768 71 74 62",
+    "phone": "+32 495 12 96 99",
     "url": "",
-    "summary": "AI enthusiast with a BSc in Artificial Intelligence from Maastricht University and an MSc in Machine Learning from Université de Montréal and Mila Research Institute. I am currently serving as an ML Engineer at HumanWare Technologies, where I advance vision algorithms to aid the visually impaired. I am passionately driven by the AI for Good initiative, aiming to leverage technology to create positive societal impacts. I am particularly interested in finding opportunities that allow me to apply and further develop my expertise in natural language processing (NLP) projects.",
+    "summary": "AI enthusiast with a BSc in Artificial Intelligence from Maastricht University and an MSc in Machine Learning from Université de Montréal and Mila Research Institute. I am currently working as an ML Engineer at HumanWare Technologies, where  I am advancing vision algorithms to aid the visually impaired. I am driven by the AI for good initiative, aiming to leverage technology to create positive societal impacts.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -43,24 +43,23 @@
       "endDate": "2022-06-01",
       "summary": "Liège, BE",
       "highlights": [
-        "Employed machine learning models, including 1-D CNNs and LSTMs, for classifying specific patterns in time series for sleep apnea diagnosis, notably enhancing the accuracy from an F1 score of 0.7 to 0.98.",
+        "Worked on an AI-driven project aimed at assisting doctors by automatically detecting anomalies in patient sleep-related signals.",
+        "Employed machine learning models, including 1-D CNNs and LSTMs, for detecting specific patterns in time series, notably enhancing the performance from an F1 score of 0.7 to 0.98.",
         "Managed large, non-structured time-series datasets, developing a robust preprocessing pipeline using the MNE-Python library and Pandas for data cleaning and structuring, along with SMOTE for data balancing.",
-        "Migrated the model to AWS, enabling server-based inference processing to support real-time data analysis in the application.",
-        "This optimized diagnostic process now reduces the time required for doctors to analyze each new patient by 50%."
+        "This optimized diagnostic process now reduces the time required for doctors to analyze each new patient."
       ]
     },
     {
       "name": "HumanWare Technologies",
-      "position": "ML Engineer",
+      "position": "Machine Learning Engineer",
       "url": "https://www.humanware.com/en-canada/home",
       "startDate": "2023-05-01",
-      "endDate": "Now",
+      "endDate": "2024-08-01",
       "summary": "Montréal, CA",
       "highlights": [
-        "Led the development of an object detection system for visually impaired users, utilizing a GPS-equipped device with dual cameras to enhance user independence.",
-        "Engineered a lightweight PyTorch model using few-shot learning, optimized for high accuracy and local processing on embedded devices.",
-        "Achieved a 0.344 mAP@0.5:0.95 using 5-shot learning for diverse object shapes on an OOD dataset.",
-        "Developing a user-friendly image capture system using PySOT's SiamRPN tracking algorithm, enabling autonomous data collection adapted to visually impaired users."
+        "Led the development of a custom object detection system designed for the visually impaired. Managed the project from Python development through model conversion to TensorFlow Lite and implementation on the Android app for a GPS-equipped device called StellarTrek.",
+        "Engineered a lightweight PyTorch model using an innovative few-shot learning approach, optimized for local processing on embedded devices.",
+        "Worked with the software development team to design a robust, user-friendly UI tailored for the visually impaired."
       ]
     }
   ],
@@ -81,8 +80,8 @@
       "name": "Interactive Human vs Robot “Water Pong” Game",
       "summary": "Maastricht University, Maastricht, NL",
       "highlights": [
-        "Collaborated in a team of four to create an interactive ''Water Pong'' game featuring real-time computer vision. Utilized Hough Circle Transform in OpenCV for precise cup detection and YOLOv5 for ball tracking, enabling accurate distance measurements.", 
-        "Engineered a lookup table for the robotic arm’s throw parameters, correlating with cup positions to achieve a target hitting accuracy of 90%."
+        "Collaborated in a team of four to create an interactive ''Water Pong'' game featuring real-time computer vision along with a robotic arm controller. Utilized Hough Circle Transform in OpenCV for precise cup detection and YOLOv5 for ball tracking, enabling accurate distance measurements.", 
+        "Engineered an adaptive lookup table for the robotic arm’s throw parameters, correlating with cup positions to achieve a target hitting accuracy of 90%."
       ],
       "startDate": "2021-09-01",
       "endDate": "2022-01-01",
@@ -98,7 +97,7 @@
       "studyType": "Master",
       "startDate": "2022-09-01",
       "endDate": "2024-01-01",
-      "courses": ["Data Science", "Machine Learning", "Representation Learning (by Prof. Aaron Courville)", "NLP"]
+      "courses": ["Data Science", "Machine Learning", "Representation Learning (by Prof. Aaron Courville)", "NLP", "Big Data"]
     },
     {
       "institution": "Maastricht University",
@@ -118,10 +117,9 @@
       "icon": "",
       "keywords": [
         "Python (advanced)",
-        "Java (advanced)",
-        "Matlab (intermediate)",
+        "Java / Kotlin (advanced)",
         "SQL (intermediate)",
-        "C++ (beginner)"
+        "C++ (intermediate)"
       ]
     },
     {
@@ -129,10 +127,11 @@
       "level": "",
       "icon": "",
       "keywords": [
-        "PyTorch (advanced)",
+        "PyTorch / TensorFlow (advanced)",
         "Scikit-learn (advanced)",
         "Pandas (advanced)",
-        "Numpy (advanced)"
+        "Numpy (advanced)",
+        "OpenCV (advanced)"
       ]
     },
     {
@@ -141,8 +140,10 @@
       "icon": "",
       "keywords": [
         "Git (advanced)",
-        "LaTeX (advanced)",
-        "Docker (intermediate)"
+        "Jupyter (advanced)",
+        "Docker (intermediate)",
+        "Django (intermediate)",
+        "Apache Spark (beginner)"
       ]
     }
   ],
