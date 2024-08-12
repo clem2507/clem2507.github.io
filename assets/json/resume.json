@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Clément Detry",
-    "position": "ML Engineer @ HumanWare Technologies",
+    "position": "Computer Vision Engineer @ HumanWare Technologies",
     "image": "",
     "email": "clementdetry@outlook.com",
     "phone": "+32 495 12 96 99",
     "url": "",
-    "summary": "AI enthusiast with a BSc in Artificial Intelligence from Maastricht University and an MSc in Machine Learning from Université de Montréal and Mila Research Institute. I am currently working as an ML Engineer at HumanWare Technologies, where  I am advancing vision algorithms to aid the visually impaired. I am driven by the AI for good initiative, aiming to leverage technology to create positive societal impacts.",
+    "summary": "AI enthusiast with a BSc in Artificial Intelligence from Maastricht University and an MSc in Machine Learning from Université de Montréal and Mila Research Institute. Recently completed a role as a Computer Vision Engineer at HumanWare Technologies, where I advanced vision algorithms to aid the visually impaired. Passionate about AI for good initiatives, I aim to leverage cutting-edge technology to create positive societal impacts.",
     "location": {
       "address": "",
       "postalCode": "",
@@ -51,7 +51,7 @@
     },
     {
       "name": "HumanWare Technologies",
-      "position": "Machine Learning Engineer",
+      "position": "Computer Vision Engineer",
       "url": "https://www.humanware.com/en-canada/home",
       "startDate": "2023-05-01",
       "endDate": "2024-08-01",
@@ -94,7 +94,7 @@
       "location": "Montréal, CA",
       "url": "https://admission.umontreal.ca/programmes/maitrise-en-informatique/",
       "area": "Machine Learning (CGPA: 3.98/4.3)",
-      "studyType": "Master",
+      "studyType": "Master of Science",
       "startDate": "2022-09-01",
       "endDate": "2024-01-01",
       "courses": ["Data Science", "Machine Learning", "Representation Learning (by Prof. Aaron Courville)", "NLP", "Big Data"]
@@ -104,7 +104,7 @@
       "location": "Maastricht, NL",
       "url": "https://curriculum.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence",
       "area": "Data Science and Artificial Intelligence (CGPA: 7.23/10)",
-      "studyType": "Bachelor",
+      "studyType": "Bachelor of Science",
       "startDate": "2018-09-01",
       "endDate": "2022-01-01",
       "courses": ["Thesis: Identifying Patterns in Jaw Activities: Time Series Analysis of Sleep‑Related Data", "Supervisor: Prof. Rachel Cavill"]
@@ -141,9 +141,9 @@
       "keywords": [
         "Git (advanced)",
         "Jupyter (advanced)",
+        "Matlab (advanced)",
         "Docker (intermediate)",
-        "Django (intermediate)",
-        "Apache Spark (beginner)"
+        "Django (intermediate)"
       ]
     }
   ],
