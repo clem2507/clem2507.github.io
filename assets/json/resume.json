@@ -94,7 +94,7 @@
       "location": "Montréal, CA",
       "url": "https://admission.umontreal.ca/programmes/maitrise-en-informatique/",
       "area": "Machine Learning (CGPA: 3.98/4.3)",
-      "studyType": "Master of Science",
+      "studyType": "MSc in Computer Science (Machine Learning)",
       "startDate": "2022-09-01",
       "endDate": "2024-01-01",
       "courses": ["Data Science", "Machine Learning", "Representation Learning (by Prof. Aaron Courville)", "NLP", "Big Data"]
@@ -104,7 +104,7 @@
       "location": "Maastricht, NL",
       "url": "https://curriculum.maastrichtuniversity.nl/education/bachelor/data-science-and-artificial-intelligence",
       "area": "Data Science and Artificial Intelligence (CGPA: 7.23/10)",
-      "studyType": "Bachelor of Science",
+      "studyType": "BSc in Data Science and Artificial Intelligence",
       "startDate": "2018-09-01",
       "endDate": "2022-01-01",
       "courses": ["Thesis: Identifying Patterns in Jaw Activities: Time Series Analysis of Sleep‑Related Data", "Supervisor: Prof. Rachel Cavill"]
