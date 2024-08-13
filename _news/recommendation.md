@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Received a [recommendation letter](https://clem2507.github.io/assets/pdf/Recommendation_letter_Clement_Detry.pdf) from my former supervisor at HumanWare.
+Received a [recommendation letter](https://clem2507.github.io/assets/pdf/Recommendation_letter_Clement_Detry.pdf){:target="_blank"} from my former supervisor at HumanWare.

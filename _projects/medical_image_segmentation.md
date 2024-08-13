@@ -8,11 +8,11 @@ category: University
 related_publications: false
 ---
 
-This study focuses on the medical image segmentation of CT and MRI scans and serves as a course project for [IFT 3710/6759 H23 - Projets (avancés) en apprentissage automatique](https://alexhernandezgarcia.github.io/teaching/mlprojects23/). It was conducted in collaboration with my classmates, [Arthur Boschet](https://github.com/ArthurBoschet) and [Frederic Gagne](https://github.com/fregagne).
+This study focuses on the medical image segmentation of CT and MRI scans and serves as a course project for [IFT 3710/6759 H23 - Projets (avancés) en apprentissage automatique](https://alexhernandezgarcia.github.io/teaching/mlprojects23/){:target="_blank"}. It was conducted in collaboration with my classmates, [Arthur Boschet](https://github.com/ArthurBoschet){:target="_blank"} and [Frederic Gagne](https://github.com/fregagne){:target="_blank"}.
 
 Medical image segmentation is a critical application in computer vision, providing an alternative to time-consuming and crucial tasks performed by clinicians. The U-net architecture is widely used in this field and has served as the foundation for newer architectures like Swin-UNETR, which incorporates Swin transformers blocks to achieve state-of-the-art results. Various researchers have proposed different implementations using diverse convolutional blocks or modifications to the shortcut path between the encoder and decoder.
 
-However, comparing the effectiveness of these architectural choices can be challenging due to variations in preprocessing steps and pipeline optimizations adopted by different research teams to enhance their results. Hence, this study aims to compare proposed architectural modifications against a U-net baseline, using fixed hyper-parameters, to provide meaningful comparisons on the [Medical Image Segmentation Decathlon datasets](http://medicaldecathlon.com/) (MISD).
+However, comparing the effectiveness of these architectural choices can be challenging due to variations in preprocessing steps and pipeline optimizations adopted by different research teams to enhance their results. Hence, this study aims to compare proposed architectural modifications against a U-net baseline, using fixed hyper-parameters, to provide meaningful comparisons on the [Medical Image Segmentation Decathlon datasets](http://medicaldecathlon.com/){:target="_blank"} (MISD).
 
 <div class="row justify-content-center">
     <div class="col-12">
@@ -54,4 +54,4 @@ Through a 5-fold cross-validation analysis on the heart and lung datasets, we fo
 
 Transformers-based models did not perform as well as convolution-based ones. It is assumed that preprocessing and aggressive data augmentation may have a crucial role in the performance reported in existing literature, and further studies incorporating these factors could help bridge the gap between our study and the existing body of work.
 
-For more details, check out the project [report](https://clem2507.github.io/assets/pdf/MedicalSegmentationReport.pdf) and the code in our [repository](https://github.com/ArthurBoschet/medical_segmentation).
+For more details, check out the project [report](https://clem2507.github.io/assets/pdf/MedicalSegmentationReport.pdf){:target="_blank"} and the code in our [repository](https://github.com/ArthurBoschet/medical_segmentation){:target="_blank"}.

@@ -8,7 +8,7 @@ category: Fun
 related_publications: false
 ---
 
-SpotiFire is an intuitive iOS app designed for music enthusiasts looking to expand their auditory horizons. Built using Xcode Swift and integrated with the [Spotify API](https://developer.spotify.com/documentation/web-api), SpotiFire leverages Spotify's recommendation system to suggest personalized track selections based on user preferences.
+SpotiFire is an intuitive iOS app designed for music enthusiasts looking to expand their auditory horizons. Built using Xcode Swift and integrated with the [Spotify API](https://developer.spotify.com/documentation/web-api){:target="_blank"}, SpotiFire leverages Spotify's recommendation system to suggest personalized track selections based on user preferences.
 
 The app begins with a simple sign-in process through Spotify, ensuring a secure connection to the user's music library. The home page serves as the central hub of the user’s Spotify music library. It provides a comprehensive view, featuring sections for liked tracks, saved albums, and user-created playlists. Additionally, it showcases the most listened-to tracks and artists, allowing for easier playlist creation that aligns with the user’s most frequented listening choices.
 
@@ -74,4 +74,4 @@ The SpotiFire app's recommendation pipeline offers a straightforward way of disc
 
 SpotiFire was developed as a personal project to explore application development and API integration. I designed it only for personal use, to better understand the process of building an app from scratch. Due to the project's nature and the regulatory requirements involved in scaling Spotify API access for wider use, SpotiFire was not released on the App Store and remains a private tool that I use for my own music selection.
 
-For more details on the code, check out the project [repository](https://github.com/clem2507/SpotiFire).
+For more details on the code, check out the project [repository](https://github.com/clem2507/SpotiFire){:target="_blank"}.

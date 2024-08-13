@@ -8,7 +8,7 @@ category: University
 related_publications: false
 ---
 
-This project develops "Water Pong," a game where a robotic arm and a human compete by throwing balls into a triangular cup arrangement. It serves as a course project for [KEN3300 - Project 3-1](https://curriculum.maastrichtuniversity.nl/meta/465275/project-3-1). It was conducted in collaboration with my classmates, [Loris Podevyn](https://github.com/lorispodevyn), [Ivan Poliakov](https://github.com/M1v1savva) and [Bunyamin Thijssen](https://github.com/Wisekik).
+This project develops "Water Pong," a game where a robotic arm and a human compete by throwing balls into a triangular cup arrangement. It serves as a course project for [KEN3300 - Project 3-1](https://curriculum.maastrichtuniversity.nl/meta/465275/project-3-1){:target="_blank"}. It was conducted in collaboration with my classmates, [Loris Podevyn](https://github.com/lorispodevyn){:target="_blank"}, [Ivan Poliakov](https://github.com/M1v1savva){:target="_blank"} and [Bunyamin Thijssen](https://github.com/Wisekik){:target="_blank"}.
 
 ### Computer Vision
 
@@ -18,7 +18,7 @@ The computer vision system implemented in this project encompasses a full pipeli
 
 A comprehensive lookup table was developed to manage the configurations of the robotic arm's movements for precise targeting and ball-throwing accuracy. This table contains detailed motor configurations for each target, which are dynamically updated in real-time based on the game's progress. The lookup table algorithmically determines the angle and delay for each throw using interpolation between predefined settings. Moreover, the system incorporates a feedback loop that adjusts the motor delay incrementally if the initial throw does not hit the target, thereby refining the robot's accuracy over successive attempts.
 
-For more details, check out the project [report](https://clem2507.github.io/assets/pdf/WaterPongReport.pdf) and the code in our [repository](https://github.com/M1v1savva/juice-pong).
+For more details, check out the project [report](https://clem2507.github.io/assets/pdf/WaterPongReport.pdf){:target="_blank"} and the code in our [repository](https://github.com/M1v1savva/juice-pong){:target="_blank"}.
 
 ### Demo
 

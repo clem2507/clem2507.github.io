@@ -10,7 +10,7 @@ related_publications: false
 
 ## Overview
 
-"Where Is My Stuff?" is an innovative project developed during my 16-month tenure at [HumanWare](https://www.humanware.com/en-canada/home), a company dedicated to creating devices that enhance the daily lives of visually impaired individuals. This project aimed to integrate advanced object detection capabilities into HumanWare's [StellarTrek](https://store.humanware.com/hca/stellartrek.html) device, a GPS-equipped camera system initially designed for navigation assistance.
+"Where Is My Stuff?" is an innovative project developed during my 16-month tenure at [HumanWare](https://www.humanware.com/en-canada/home){:target="_blank"}, a company dedicated to creating devices that enhance the daily lives of visually impaired individuals. This project aimed to integrate advanced object detection capabilities into HumanWare's [StellarTrek](https://store.humanware.com/hca/stellartrek.html){:target="_blank"} device, a GPS-equipped camera system initially designed for navigation assistance.
 
 The primary goal was to develop a feature analogous to "FaceID" for iPhones, but tailored for locating personal objects. Unlike generic object detection, this system needed to identify specific items belonging to the user, such as their unique keys, wallet, or glasses. The challenge was to create a solution that could run efficiently on the StellarTrek's Snapdragon 660 processor while addressing two key aspects:
 
