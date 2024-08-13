@@ -24,9 +24,9 @@ For more details, check out the project [report](https://clem2507.github.io/asse
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/computer_vision_demo.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/water_pong/computer_vision_demo.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/robot_throw_demo.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+        {% include video.liquid path="assets/video/water_pong/robot_throw_demo.mp4" class="img-fluid rounded z-depth-1" controls=true %}
     </div>
 </div>
