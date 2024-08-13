@@ -12,7 +12,7 @@ profile:
     <p>Quai de Rome,</p> 
     <p>4000 Liège, Belgium</p>
 
-news: false # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 latest_posts: false # includes the latest posts section
 social: true # includes social icons at the bottom of the page
